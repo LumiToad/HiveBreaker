@@ -33,8 +33,8 @@ https://github.com/LumiToad/Hivebreaker/assets/129980440/3b21e8c3-908e-4fc9-8524
     <br />
   - Communication with artists and game designers -<br /><br />
   The game was developed with ten people.<br />
-  Some initial ideas, general game design and other...<br />
-  Very close work with our VFX artist, SFX and music designer (the same guy!)<br />
+  Some initial ideas, general game design, etc. was part of my work.<br />
+  Very close work with our VFX artist, SFX and music designer (all the same <a href="https://www.linkedin.com/in/sacha-silva-art/">guy</a>!)<br />
   UI Programming was mostly done by <a href="https://github.com/xXAstolXx">David Teinert</a>.<br /><br />
   Explaining tools, communicate about file formats, implementation of assets and solving other problems was daily business.<br /><br />
   - Administrative work -<br /><br />
