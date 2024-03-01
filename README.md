@@ -26,7 +26,7 @@ https://github.com/LumiToad/Hivebreaker/assets/129980440/3b21e8c3-908e-4fc9-8524
   Gameplay features, some UI<br />
   - Create tools, using Unity features -<br /><br />
   Created tools for level / game design, such as:<br />
-    <li>CSV Import for enemy stats</li>
+    <li>Implementation of CSV Import for enemy stats (Importer by <a href="https://github.com/Schlangenbarde">Leon Schramm</a>)</li>
     <li>Crossfade and SFX setup</li>
     <li>Tutorial dialogues</li>
     <li>Player Movement</li>
@@ -42,28 +42,31 @@ https://github.com/LumiToad/Hivebreaker/assets/129980440/3b21e8c3-908e-4fc9-8524
 
   <hr />
   <h2>Example scripts</h2>
-  Developement faced a lot of problems, there are still some scripts I'd like to show:
+  Developement faced a lot of problems, there are still some scripts I'd like to show:<br /><br />
   <ul>
-   <li></li>
-   <li></li>
-   <li></li>
+    Crossfading audio (depending on situation and rng)
+    <li><a href="https://github.com/LumiToad/Hivebreaker/blob/main/Assets/Script/Audio/MusicPlayer.cs">MusicPlayer.cs</a></li>
+    <li><a href="https://github.com/LumiToad/Hivebreaker/blob/main/Assets/Script/Game/GameMusicEvent.cs">GameMusicEvent.cs</a></li>
+    Seamless player join (Co-Op)
+    <li><a href="https://github.com/LumiToad/Hivebreaker/blob/main/Assets/Script/Game/GamePadHandler.cs">GamePadHandler.cs</a></li>
+    Saving and loading files
+    <li><a href="https://github.com/LumiToad/Hivebreaker/blob/main/Assets/Script/Game/SaveFileManager.cs">SaveFileManager.cs</a></li>
+    Item interaction
+    <li><a href="https://github.com/LumiToad/Hivebreaker/blob/main/Assets/Script/Interactable.cs">Interactable.cs</a></li>
   </ul>
+
+  This was my first time working with Unity and C#.<br />
+  I learned a lot of things, nowadays I would do a lot of stuff another way.
   
   <hr />
   <h2>Downloads and Website</h2>
 
-  <h3>Website</h3>
-  <a href="https://brevity-of-gravity.school4games.net/">
-    <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_brevity_banner.png" alt="brevity banner" />
-  </a>
-
   <h3>Itch</h3>
-  <a href="https://s4g.itch.io/brevity-of-gravity">
-    <img src="https://github.com/LumiToad/LumiToad/blob/main/img/itch/brevity.png" alt="itch page" />
+  <a href="https://s4g.itch.io/hivebreaker">
+    <img src="https://github.com/LumiToad/LumiToad/blob/main/img/banner/github_hivebreaker_banner.png" alt="hivebreaker banner" />
   </a>
 
-  Artworks by Maresa Althof (Member of the dev team)<br />
-  - https://www.artstation.com/maresaalthof
-  - https://www.linkedin.com/in/maresa-althof-3539a2253/
+  Artworks by Merit Faske (Member of the dev team)<br />
+  - https://www.linkedin.com/in/merit-faske-4624b2269/?originalSubdomain=de
   
 </div>
